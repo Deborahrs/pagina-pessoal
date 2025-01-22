@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculo>
+    <dados_pessoais>
+        <nome>Deborah Rocha</nome>
+        <email>debs.dev2003@gmail.com</email>
+        <telefone>(11) 91234-5678</telefone>
+        <endereco>
+            <rua>otaviano Castilho Mendes</rua>
+            <numero>355/numero>
+            <bairro>Centro</bairro>
+            <cidade>São Borja</cidade>
+            <estado>RS</estado>
+            <cep>01010-000</cep>
+        </endereco>
+        <data_nascimento>1990-05-15</data_nascimento>
+        <nacionalidade>Brasileira</nacionalidade>
+        <estado_civil>Solteira</estado_civil>
+    </dados_pessoais>
+    <formação>
+        <faculdade>Bacharelanda em Sistemas de Informação - Campus IFFar São Borja</faculdade>
+        <curso>Formação Web - Udemy</curso>
+        <curso>Formação em Liderança - Sebrae</curso>
+    </formação>
+    <experiencia>
+        <cargo>
+            <titulo>Estagiária</titulo>
+            <empresa>Incubadora do Campus IFFar São Borja</empresa>
+            <periodo>1 ano</periodo>
+            <atividades>
+                <atividade>Apoio no desenvolvimento de projetos de inovação e empreendedorismo.</atividade>
+                <atividade>Participação em eventos e atividades para fomentar startups e novos negócios.</atividade>
+                <atividade>Auxílio administrativo e técnico na estruturação de planos de negócio.</atividade>
+            </atividades>
+        </cargo>
+    </experiencia>
+    <projetos>
+        <projeto>
+            <titulo>Pesquisa em Usabilidade e Prototipagem</titulo>
+            <descricao>Desenvolvi um projeto de pesquisa focado em usabilidade e prototipagem para uma plataforma web de mapeamento de drones, com o objetivo de otimizar a interface e as funcionalidades da aplicação.</descricao>
+        </projeto>
+    </projetos>
+    <habilidades>
+        <habilidade>Programação em HTML, CSS, JavaScript, e PHP</habilidade>
+        <habilidade>Conhecimento em bancos de dados SQL</habilidade>
+        <habilidade>Habilidades de liderança e comunicação</habilidade>
+        <habilidade>Familiaridade com metodologias ágeis (Scrum, Kanban)</habilidade>
+        <habilidade>Capacidade de resolver problemas técnicos de forma eficiente</habilidade>
+    </habilidades>
+    <idiomas>
+        <idioma>
+            <nome>Português</nome>
+            <nivel>Nativo</nivel>
+        </idioma>
+        <idioma>
+            <nome>Inglês</nome>
+            <nivel>Intermediário</nivel>
+        </idioma>
+    </idiomas>
+</curriculo>
